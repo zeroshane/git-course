@@ -1,2 +1,2 @@
 # git-course
-This for training
+This is for training only.
